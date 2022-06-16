@@ -18,3 +18,7 @@ Steps to compile and run the program:-
 2. Change the directory to the SIC-XE-Assembler folder.
 3. Run the command python3 Assembler.py input1.txt.
 4. Intermediate file will be generated in the directory as Intermediate.txtî and object program will be generated as Object_Program.txt.
+
+##Object code generated
+<img width="824" alt="Screen Shot 2022-06-16 at 4 20 32 PM" src="https://user-images.githubusercontent.com/100123587/174068967-c0363758-499f-417e-b86b-32830f781518.png">
+ 
